@@ -1,0 +1,49 @@
+site_name: Refonte infocombesancon.fr — Projet tutoré
+site_description: Cahier des charges et trame de cadrage pour la refonte du site infocombesancon.fr
+theme:
+  name: material
+  language: fr
+  palette:
+    - scheme: default
+      primary: indigo
+      toggle:
+        icon: material/weather-night
+        name: Passer en mode sombre
+    - scheme: slate
+      primary: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Passer en mode clair
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - toc:
+      permalink: true
+  - tables
+
+nav:
+  - Accueil: index.md
+  - 1. Contexte:
+      - Le site actuel: 01-contexte/index.md
+      - Constats: 01-contexte/constats.md
+  - 2. Cadrage du projet:
+      - Objectifs et livrables: 02-cadrage/index.md
+      - Équipe: 02-cadrage/equipe.md
+  - 3. Analyse préalable:
+      - Pourquoi analyser avant de refondre: 03-analyse-prealable/index.md
+      - Cibles et objectifs: 03-analyse-prealable/cibles-objectifs.md
+      - Audit du site existant: 03-analyse-prealable/audit-existant.md
+      - Benchmark: 03-analyse-prealable/benchmark.md
+  - 4. Refonte:
+      - Cadre technique (Elementor): 04-refonte/index.md
+      - Livrables attendus: 04-refonte/livrables-attendus.md
+  - 5. Ressources: 05-ressources/index.md
