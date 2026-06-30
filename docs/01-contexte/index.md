@@ -2,6 +2,9 @@
 
 [infocombesancon.fr](https://infocombesancon.fr) est le site existant que ce projet a pour mission de refondre.
 
+![Page d'accueil actuelle du site infocombesancon.fr](../assets/site-actuel-accueil.png)
+*Capture d'écran de la page d'accueil actuelle (à mettre à jour si le site évolue avant le démarrage du projet en septembre).*
+
 ## Ce que l'on sait déjà
 
 Le site a été réalisé avec un **builder WordPress ancien** (à identifier précisément en début de projet : Elementor en version obsolète ? Divi ? Un autre page builder ? — la première tâche de l'équipe sera de l'identifier techniquement).
