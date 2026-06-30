@@ -35,5 +35,7 @@ Détails techniques de ces livrables : voir [Livrables attendus](../04-refonte/l
 
 ## Calendrier
 
-!!! note "À définir"
-    Aucune échéance précise n'est fixée pour le moment (dates de rendus intermédiaires, date de soutenance). Cette section sera complétée dès que le calendrier sera arrêté avec le tuteur, au démarrage du projet en septembre.
+Le détail des étapes, jalons et dates à renseigner se trouve sur la page dédiée : [Planning](planning.md).
+
+!!! note "Dates à renseigner"
+    Aucune date n'est encore fixée. La page [Planning](planning.md) liste toutes les étapes du projet avec des champs de date vides, à compléter en équipe avec le tuteur dès la réunion de lancement.
