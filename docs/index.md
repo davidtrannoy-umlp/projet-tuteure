@@ -1,11 +1,14 @@
 # Refonte du site infocombesancon.fr
 
-Bienvenue sur le site de cadrage du projet tutoré **refonte du site infocombesancon.fr**.
+Document de cadrage du projet tutoré **refonte du site infocombesancon.fr**.
 
-Ce site vous accompagne du démarrage du projet (rentrée de septembre) jusqu'à la livraison de la refonte. Il contient le contexte, les objectifs, les trames d'analyse à compléter en équipe, et le cadre technique de la refonte.
+Vous retrouverez des informations vous permettant de vous poser les bonnes questions, et de réaliser votre projet tuteuré dans de bonnes conditions.
 
-!!! tip "Comment utiliser ce site"
-    Suivez les chapitres dans l'ordre : **Contexte → Cadrage → Analyse préalable → Refonte**. Les pages marquées *« trame à remplir »* sont volontairement incomplètes : c'est à vous, en équipe, de les compléter au fil de l'avancement du projet.
+!!! warning "Attention au planning"
+	A priori, vous avez le temps de réaliser votre projet, mais avec les challenges, les semaines spéciales et vos cours, il n'est pas rare de voir les étudiants prendre du retard et manquer de temps pour terminer leur projet tuteuré.
+
+!!! tip "Comment utiliser ce document"
+    Suivez les chapitres dans l'ordre : **Contexte → Cadrage → Analyse préalable → Refonte**. Les pages marquées *« trame à remplir »* sont volontairement incomplètes : c'est à vous, en équipe, de les compléter dans un document annexe, que vous me partagerez, au fil de l'avancement du projet.
 
 ## En bref
 

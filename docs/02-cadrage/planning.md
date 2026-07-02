@@ -6,6 +6,7 @@
 ## Jalons clés
 
 Dates de passage d'une phase à l'autre / points de validation avec le tuteur.
+Fin du projet en semaine 13 2027
 
 | Jalon | Date prévue | Date réelle | Statut |
 |---|---|---|---|
