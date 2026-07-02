@@ -50,6 +50,7 @@ Ne pas créer de nouveau chapitre numéroté sans l'ajouter à la fois dans `mkd
    ⚠️ Le premier appel renvoie souvent une image de chargement (placeholder thum.io) — toujours **relire l'image générée** avant de l'utiliser, et relancer la requête après quelques secondes si besoin. Le flag `--ssl-no-revoke` est nécessaire sur cette machine (échec de vérification de révocation de certificat sinon).
    Images stockées dans `docs/assets/`.
 5. Le déploiement est automatique (`.github/workflows/deploy.yml`) : un simple `git push` sur `main` republie le site en 1-2 minutes. Ne jamais faire de `mkdocs gh-deploy` manuel (risque de thème par défaut si l'environnement local n'a pas `mkdocs-material`).
+6. **Déploiement Pages natif via Actions** (depuis le 02/07/2026) : le workflow build le site avec `mkdocs build` puis publie via `actions/upload-pages-artifact` + `actions/deploy-pages`. Ceci remplace `mkdocs gh-deploy` (qui poussait sur une branche `gh-pages` traitée par le pipeline "legacy" Jekyll de GitHub Pages, devenu instable — builds échouant systématiquement en `errored` avec `duration: 0`). Prérequis : **Settings → Pages → Source = "GitHub Actions"** (et non "Deploy from a branch"). La branche `gh-pages` n'est plus utilisée et peut être supprimée à l'occasion.
 
 ## Historique des décisions
 
