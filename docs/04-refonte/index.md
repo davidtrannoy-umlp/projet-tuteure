@@ -18,9 +18,8 @@ La refonte se fera avec **Elementor**, un page builder pour WordPress.
 
 Bonnes pratiques à appliquer :
 
-- Concevoir « mobile first » autant que possible : penser d'abord à l'affichage mobile, puis enrichir pour desktop
 - Tester réellement sur un téléphone, pas seulement avec l'aperçu responsive du navigateur
-- Faire attention au poids des images (Elementor permet d'optimiser/redimensionner les images importées)
+- Faire attention au poids des images (installer des plugins de gestion d'image : FIleBird, ewww optimizer)
 
 ### Cohérence graphique
 

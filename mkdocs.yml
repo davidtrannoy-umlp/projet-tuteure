@@ -4,12 +4,12 @@ theme:
   name: material
   language: fr
   palette:
-    - scheme: default
-      primary: indigo
+    - scheme: slate
+      primary: pink
       toggle:
         icon: material/weather-night
         name: Passer en mode sombre
-    - scheme: slate
+    - scheme: default
       primary: indigo
       toggle:
         icon: material/weather-sunny
@@ -21,6 +21,9 @@ theme:
     - search.suggest
     - search.highlight
     - content.code.copy
+
+extra_css:
+  - stylesheets/extra.css
 
 markdown_extensions:
   - admonition
@@ -34,7 +37,6 @@ nav:
   - Accueil: index.md
   - 1. Contexte:
       - Le site actuel: 01-contexte/index.md
-      - Constats: 01-contexte/constats.md
   - 2. Cadrage du projet:
       - Objectifs et livrables: 02-cadrage/index.md
       - Équipe: 02-cadrage/equipe.md

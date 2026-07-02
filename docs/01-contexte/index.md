@@ -1,29 +1,58 @@
+---
+hide:
+  - navigation
+---
+
 # Le site actuel
 
 [infocombesancon.fr](https://infocombesancon.fr) est le site existant que ce projet a pour mission de refondre.
 
 ![Page d'accueil actuelle du site infocombesancon.fr](../assets/site-actuel-accueil.png)
-*Capture d'écran de la page d'accueil actuelle (à mettre à jour si le site évolue avant le démarrage du projet en septembre).*
+*Capture d'écran de la page d'accueil actuelle*
 
 ## Ce que l'on sait déjà
 
-Le site a été réalisé avec un **builder WordPress ancien** (à identifier précisément en début de projet : Elementor en version obsolète ? Divi ? Un autre page builder ? — la première tâche de l'équipe sera de l'identifier techniquement).
+Le site a été réalisé avec un **ancien builder WordPress** (qu'il faudra certainement conserver pour que les anciennes pages s'affichent correctement).
 
 !!! note "Pourquoi changer de builder ?"
     Un builder daté pose en général plusieurs problèmes cumulés : code généré peu optimisé, difficulté à maintenir un rendu responsive cohérent, options de mise en page limitées, et parfois des risques de sécurité si le builder n'est plus maintenu. La refonte vise à migrer vers **Elementor**, plus largement utilisé et mieux documenté pédagogiquement pour un BUT Information-Communication.
 
 ## Ce qu'il faudra vérifier en équipe
 
-Dès le démarrage du projet, l'équipe devra documenter precisément :
+Dès le démarrage du projet, l'équipe devra documenter précisément :
 
 - [ ] Quel builder/thème WordPress est utilisé actuellement
 - [ ] La version de WordPress et des plugins installés
-- [ ] L'hébergeur et les accès disponibles (admin WordPress, FTP, etc.)
 - [ ] Le nombre de pages et d'articles existants
 - [ ] Les éventuelles fonctionnalités spécifiques (formulaires, annuaire, agenda, etc.)
 
-Ces constats techniques alimenteront la page [Constats](constats.md) et la page [Audit du site existant](../03-analyse-prealable/audit-existant.md).
+Ces constats techniques alimenteront l'[Audit du site existant](../03-analyse-prealable/audit-existant.md).
 
 ## Qui est concerné
 
-Le site représente l'association/le département Information-Communication. Avant d'aller plus loin, l'équipe doit clarifier qui sont les parties prenantes du site (porteurs du projet, futurs administrateurs du site une fois la refonte livrée, etc.) — voir [Cibles et objectifs](../03-analyse-prealable/cibles-objectifs.md).
+Le site représente le département Information-Communication. Avant d'aller plus loin, l'équipe doit clarifier qui sont les parties prenantes du site (porteurs du projet, futurs administrateurs du site une fois la refonte livrée, etc.) — voir [Cibles et objectifs](../03-analyse-prealable/cibles-objectifs.md).
+
+## Constats
+
+Premiers problèmes identifiés sur le site actuel, à vérifier et compléter par l'équipe en début de projet.
+
+### Organisation des contenus
+
+Le site nécessite une réorganisation de ses contenus. Pistes à creuser par l'équipe :
+
+- L'arborescence actuelle est-elle compréhensible pour un visiteur qui découvre le site ?
+- Y a-t-il des pages orphelines, en doublon, ou obsolètes ?
+- Les contenus les plus importants (ex : candidater, contacter, programme de formation) sont-ils accessibles en 1-2 clics depuis l'accueil ?
+
+!!! tip "Méthode suggérée"
+    Faire un **inventaire de contenu**  : lister toutes les pages existantes dans un tableau, avec pour chacune son URL, son objectif supposé, et une proposition (garder / fusionner / supprimer / réécrire). Ce travail nourrit directement la page [Audit du site existant](../03-analyse-prealable/audit-existant.md).
+
+### Aspect visuel / builder
+
+- Le design semble daté par rapport aux standards actuels (à confirmer par un benchmark, voir [Benchmark](../03-analyse-prealable/benchmark.md))
+- Les options de mise en page du builder actuel limitent certaines évolutions
+
+### Autres constats ?
+
+!!! note "Trame à remplir"
+    Tout autre constat identifié par l'équipe au fil de l'analyse (accessibilité, SEO, performance, sécurité du site WordPress, etc.) devra apparaitre dans votre document.

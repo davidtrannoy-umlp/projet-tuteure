@@ -2,14 +2,14 @@
 
 ## Composition
 
-L'équipe sera composée de **6 à 7 étudiant·es** de 2ᵉ année de BUT Information-Communication, à partir de la rentrée de septembre.
+L'équipe sera composée de **6 à 7 étudiant·es** de 2ᵉ année de BUT Information-Communication.
 
 !!! note "Trame à remplir"
-    Les membres de l'équipe et leurs rôles seront renseignés ici dès la constitution du groupe.
+    Les membres de l'équipe et leurs rôles seront renseignés dès la constitution du groupe.
 
-| Prénom Nom | Rôle suggéré | Contact |
-|---|---|---|
-| À compléter | À compléter | À compléter |
+| Prénom Nom  | Rôle suggéré |
+| ----------- | ------------ |
+| À compléter | À compléter  |
 
 ## Rôles suggérés
 
@@ -26,4 +26,4 @@ Pour un projet de cette taille, une répartition possible (à adapter par l'équ
 
 ## Contact tuteur
 
-À compléter avec les coordonnées du tuteur de projet en début d'année.
+Tous les mardis lors du créneau réservé aux projets tuteurés, et par mail à : david.trannoy@umlp.fr

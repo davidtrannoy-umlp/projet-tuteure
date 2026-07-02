@@ -1,3 +1,9 @@
+---
+hide:
+  - toc
+  - navigation
+---
+
 # Refonte du site infocombesancon.fr
 
 Document de cadrage du projet tutoré **refonte du site infocombesancon.fr**.
@@ -12,13 +18,12 @@ Vous retrouverez des informations vous permettant de vous poser les bonnes quest
 
 ## En bref
 
-| | |
-|---|---|
-| **Site à refondre** | [infocombesancon.fr](https://infocombesancon.fr) |
-| **Outil de refonte** | Elementor (WordPress) |
-| **Équipe** | 6 à 7 étudiant·es |
-| **Démarrage** | Rentrée de septembre |
-| **Enjeux principaux** | Responsive, réorganisation des contenus, modernisation visuelle |
+| **Site à refondre**   | [infocombesancon.fr](https://infocombesancon.fr)                    |
+| --------------------- | ------------------------------------------------------------------- |
+| **Outil de refonte**  | Elementor (WordPress)                                               |
+| **Équipe**            | 6 à 7 étudiant·es                                                   |
+| **Démarrage**         | Rentrée de septembre                                                |
+| **Enjeux principaux** | Réorganisation des contenus, modernisation visuelle dont responsive |
 
 !!! warning "Avant de toucher à Elementor"
     Une refonte qui commence directement par la maquette, sans analyse des cibles et des objectifs, produit presque toujours un site « joli mais inadapté ». La partie [Analyse préalable](03-analyse-prealable/index.md) n'est pas une formalité : c'est elle qui doit guider toutes les décisions de design prises ensuite.

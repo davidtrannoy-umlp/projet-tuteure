@@ -33,4 +33,4 @@
 - [ ] Liste des accès et identifiants nécessaires (transmise de façon sécurisée, pas dans ce site public)
 
 !!! warning "Confidentialité des accès"
-    Les identifiants, mots de passe et accès techniques au site WordPress ne doivent **jamais** être inscrits dans ce site MkDocs (qui est public sur GitHub Pages). Utilisez un gestionnaire de mots de passe partagé ou le canal sécurisé indiqué par le tuteur — voir [Ressources](../05-ressources/index.md).
+    Les identifiants, mots de passe et accès techniques au site WordPress seront transmis via un canal sécurisé indiqué par le tuteur — voir [Ressources](../05-ressources/index.md).
