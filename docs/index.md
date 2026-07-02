@@ -21,7 +21,7 @@ Vous retrouverez des informations vous permettant de vous poser les bonnes quest
 | **Site à refondre**   | [infocombesancon.fr](https://infocombesancon.fr)                    |
 | --------------------- | ------------------------------------------------------------------- |
 | **Outil de refonte**  | Elementor (WordPress)                                               |
-| **Équipe**            | 6 à 7 étudiant·es                                                   |
+| **Équipe**            | 5 à 6 étudiant·es                                                   |
 | **Démarrage**         | Rentrée de septembre                                                |
 | **Enjeux principaux** | Réorganisation des contenus, modernisation visuelle dont responsive |
 

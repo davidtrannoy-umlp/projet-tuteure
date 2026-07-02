@@ -2,7 +2,7 @@
 hide:
   - navigation
 ---
-
+Le projet a déjà commencé, n'hésitez pas à poser des questions et à vous **organiser**. *Pause possible si besoin.*
 # Le site actuel
 
 [infocombesancon.fr](https://infocombesancon.fr) est le site existant que ce projet a pour mission de refondre.
@@ -21,10 +21,10 @@ Le site a été réalisé avec un **ancien builder WordPress** (qu'il faudra cer
 
 Dès le démarrage du projet, l'équipe devra documenter précisément :
 
-- [ ] Quel builder/thème WordPress est utilisé actuellement
-- [ ] La version de WordPress et des plugins installés
-- [ ] Le nombre de pages et d'articles existants
-- [ ] Les éventuelles fonctionnalités spécifiques (formulaires, annuaire, agenda, etc.)
+- Quel builder/thème WordPress est utilisé actuellement
+- La version de WordPress et des plugins installés
+- Le nombre de pages et d'articles existants
+- Les éventuelles fonctionnalités spécifiques (formulaires, annuaire, agenda, etc.)
 
 Ces constats techniques alimenteront l'[Audit du site existant](../03-analyse-prealable/audit-existant.md).
 

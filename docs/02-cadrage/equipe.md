@@ -2,7 +2,7 @@
 
 ## Composition
 
-L'équipe sera composée de **6 à 7 étudiant·es** de 2ᵉ année de BUT Information-Communication.
+L'équipe sera composée de **5 à 6 étudiant·es** de 2ᵉ année de BUT Information-Communication.
 
 !!! note "Trame à remplir"
     Les membres de l'équipe et leurs rôles seront renseignés dès la constitution du groupe.
