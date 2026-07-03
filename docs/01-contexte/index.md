@@ -47,6 +47,9 @@ Le site nécessite une réorganisation de ses contenus. Pistes à creuser par l'
 !!! tip "Méthode suggérée"
     Faire un **inventaire de contenu**  : lister toutes les pages existantes dans un tableau, avec pour chacune son URL, son objectif supposé, et une proposition (garder / fusionner / supprimer / réécrire). Ce travail nourrit directement la page [Audit du site existant](../03-analyse-prealable/audit-existant.md).
 
+!!! warning "Site en production"
+	Les contenus du site vont continuer à évoluer pendant votre refonte, les Team 2.0 et JPO devraient publier des informations sur le site cette année. Il faudra prendre contact avec ces 2 équipes de projet tuteuré pour mettre en place des process et éviter de perdre des informations.
+
 ### Aspect visuel / builder
 
 - Le design semble daté par rapport aux standards actuels (à confirmer par un benchmark, voir [Benchmark](../03-analyse-prealable/benchmark.md))
