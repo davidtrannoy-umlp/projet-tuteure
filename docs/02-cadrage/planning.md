@@ -4,6 +4,8 @@
     Les étapes ci-dessous reprennent les phases du projet ([Objectifs et livrables](index.md)), découpées en tâches plus précises, pour les jalons clés et l'étape cadrage. Les dates sont volontairement laissées vides : à renseigner en équipe dès la réunion de lancement.
 	Un travail similaire est attendu pour toutes les étapes. Plus vous serez précis dans votre découpage de tâches et dans votre répartition, plus l'avancée de votre projet sera facile à suivre, et à corriger si certaines tâches venaient à s'éloigner des dates prévues.
 
+
+![Calendrier 2A 2026-2027](../assets/calendrier-26-27-2A.jpg)
 ## Jalons clés
 
 Dates de passage d'une phase à l'autre / points de validation avec le tuteur.
