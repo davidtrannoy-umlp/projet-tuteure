@@ -2,6 +2,7 @@ site_name: Refonte infocombesancon.fr — Projet tutoré
 site_description: Cahier des charges et trame de cadrage pour la refonte du site infocombesancon.fr
 theme:
   name: material
+  custom_dir: overrides
   language: fr
   palette:
     - scheme: slate
