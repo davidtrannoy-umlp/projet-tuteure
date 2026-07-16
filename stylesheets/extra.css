@@ -1,0 +1,24 @@
+/* Taille du texte du contenu (par défaut Material : 0.8rem) */
+.md-typeset {
+  font-size: 0.9rem;
+}
+
+.md-typeset .admonition,
+.md-typeset table:not([class]) {
+  font-size: 0.85rem;
+}
+
+.md-typeset h1 { color: #fc5e93;}
+.md-typeset h2 { color: #fe7e93;}
+.md-typeset h3 { color: #ffc0cb;}
+
+.md-typeset p {
+  text-align: justify;
+}
+
+/* Tableaux en pleine largeur (par défaut Material les limite à leur contenu) */
+.md-typeset__table { width: 100%; }
+.md-typeset table:not([class]) {
+  display: table;
+  width: 100%;
+}
